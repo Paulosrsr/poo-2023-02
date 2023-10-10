@@ -35,7 +35,7 @@ public String getEditora(){
 public void setEditora(String editora){
     this.editora = editora;
 }
- public String toString() {
+public String toString() {
         return "Livro{" +
                 "titulo='" + titulo + '\'' +
                 ", autor='" + autor + '\'' +
